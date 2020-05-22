@@ -1,6 +1,6 @@
 #commento
 trigger:
-- '*'
+- selenium
 
 variables:
   buildConfiguration: 'Release'
